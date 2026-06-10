@@ -1,0 +1,28 @@
+#schilf{
+    height: 25%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    bottom: 25px;
+}
+
+#schilf1{
+    height: 25%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    bottom: auto;
+    margin: 1px;
+}
+
+
+#ab{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    font-size:7.5em;
+}
